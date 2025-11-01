@@ -1,4 +1,6 @@
+streamlit
 pandas
 numpy
-seaborn
--e .
+scikit-learn
+xgboost
+joblib
